@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Rachit Mehta 👋 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h1>
-<h3 align="center">Aspiring Compiler & Systems Engineer | B.Tech. CSE, IIT Gandhinagar</h3>
+<h3 align="center"> B.Tech. CSE, IIT Gandhinagar | Aspiring Systems Engineer </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rachit-mehta-b35043280/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Rachit23110261" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rachit.mehta2204@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <img align="right" width="240" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
@@ -14,7 +14,7 @@
   <legend align="left"><h3>👨🏻‍💻 About Me</h3></legend>
 
   <em>
-    I am an <strong>aspiring Compiler & Systems Engineer</strong> pursuing/completing my B.Tech. in Computer Science & Engineering at <strong>IIT Gandhinagar</strong> (CPI: 9.01/10, 3-year curriculum)[cite: 1]. Passionate about compilers, ML infrastructure, and low-level systems, I have been actively learning through upstream open-source contributions to <strong>OpenXLA/XLA</strong>, <strong>Triton</strong>, <strong>scikit-learn</strong>, and <strong>CGAL</strong>, alongside compiler optimization research and internship experience[cite: 1].
+    I am an <strong>aspiring Systems Engineer</strong> pursuing/completing my B.Tech. in Computer Science & Engineering at <strong>IIT Gandhinagar</strong> (CPI: 9.01/10, 3-year curriculum)[cite: 1]. Passionate about compilers, ML infrastructure, and low-level systems, I have been actively learning through upstream open-source contributions to <strong>OpenXLA/XLA</strong>, <strong>Triton</strong>, <strong>scikit-learn</strong>, and <strong>CGAL</strong>, alongside compiler optimization research and internship experience[cite: 1].
   </em>
   <br><br>
 
