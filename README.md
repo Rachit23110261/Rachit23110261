@@ -14,7 +14,7 @@
   <legend align="left"><h3>👨🏻‍💻 About Me</h3></legend>
 
   <em>
-    I am an <strong>aspiring Systems Engineer</strong> pursuing/completing my B.Tech. in Computer Science & Engineering at <strong>IIT Gandhinagar</strong> (CPI: 9.01/10, 3-year curriculum)[cite: 1]. Passionate about compilers, ML infrastructure, and low-level systems, I have been actively learning through upstream open-source contributions to <strong>OpenXLA/XLA</strong>, <strong>Triton</strong>, <strong>scikit-learn</strong>, and <strong>CGAL</strong>, alongside compiler optimization research and internship experience[cite: 1].
+    I am an <strong>aspiring Systems Engineer</strong> pursuing/completing my B.Tech. in Computer Science & Engineering at <strong>IIT Gandhinagar</strong> (CPI: 9.01/10, 3-year curriculum). Passionate about compilers, ML infrastructure, and low-level systems, I have been actively learning through upstream open-source contributions to <strong>OpenXLA/XLA</strong>, <strong>Triton</strong>, <strong>scikit-learn</strong>, and <strong>CGAL</strong>, alongside compiler optimization research and internship experience.
   </em>
   <br><br>
 
