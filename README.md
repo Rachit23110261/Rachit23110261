@@ -56,12 +56,12 @@
 
 ### 🚀 Open-Source Contributions
 - **OpenXLA / XLA — Machine Learning Compiler** ([All PRs](https://github.com/pulls?q=is%3Apr+author%3ARachit23110261+repo%3Aopenxla%2Fxla))
-  - **XLA:GPU:** Extended `SanitizeConstantNames` across all execution threads, ensuring valid constant names in non-main-thread GPU compilation paths ([#51671](https://github.com/openxla/xla/pull/51671))[cite: 1].
-  - **SPMD:** Fixed incorrect single-device detection for empty tuple shardings in the SPMD partitioner ([#52112](https://github.com/openxla/xla/pull/52112))[cite: 1].
-  - **XLA:CPU:** Fixed AOT executable loading by gating the embedded HLO proto ([#51084](https://github.com/openxla/xla/pull/51084)); gated the broadcast-division rewrite on fast-math ([#51932](https://github.com/openxla/xla/pull/51932))[cite: 1].
+  - **XLA:GPU:** Extended `SanitizeConstantNames` across all execution threads, ensuring valid constant names in non-main-thread GPU compilation paths ([#51671](https://github.com/openxla/xla/pull/51671)).
+  - **SPMD:** Fixed incorrect single-device detection for empty tuple shardings in the SPMD partitioner ([#52112](https://github.com/openxla/xla/pull/52112)).
+  - **XLA:CPU:** Fixed AOT executable loading by gating the embedded HLO proto ([#51084](https://github.com/openxla/xla/pull/51084)); gated the broadcast-division rewrite on fast-math ([#51932](https://github.com/openxla/xla/pull/51932)).
 - **Triton — GPU Compiler**
-  - Fixed NVIDIA backend fence insertion for generic memory accesses following unfenced asynchronous accesses ([#12343](https://github.com/triton-lang/triton/pull/12343))[cite: 1].
-- **Others:** Additional merged contributions to **scikit-learn** ([#30012](https://github.com/scikit-learn/scikit-learn/pull/30012)) and **CGAL** ([#8490](https://github.com/CGAL/cgal/pull/8490))[cite: 1].
+  - Fixed NVIDIA backend fence insertion for generic memory accesses following unfenced asynchronous accesses ([#12343](https://github.com/triton-lang/triton/pull/12343)).
+- **Others:** Additional merged contributions to **scikit-learn** ([#30012](https://github.com/scikit-learn/scikit-learn/pull/30012)) and **CGAL** ([#8490](https://github.com/CGAL/cgal/pull/8490)).
 
 <br>
 
