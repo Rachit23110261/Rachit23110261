@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rachit Mehta 👋 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h1>
-<h3 align="center"> B.Tech. CSE, IIT Gandhinagar | Aspiring ML Compiler Engineer </h3>
+<h3 align="center"> B.Tech. CSE, IIT Gandhinagar | Aspiring C++ Engineer </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rachit-mehta-b35043280/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -14,7 +14,7 @@
   <legend align="left"><h3>👨🏻‍💻 About Me</h3></legend>
 
   <em>
-    I am an <strong>aspiring ML Compiler Engineer</strong> pursuing/completing my B.Tech. in Computer Science & Engineering at <strong>IIT Gandhinagar</strong> (CPI: 9.01/10). Passionate about compilers, ML infrastructure, and low-level systems, I have been actively learning through upstream open-source contributions to <strong>OpenXLA/XLA</strong>, <strong>Triton</strong>, <strong>scikit-learn</strong>, and <strong>CGAL</strong>, alongside compiler optimization research and internship experience.
+    I am an <strong>aspiring C++ Engineer</strong> pursuing/completing my B.Tech. in Computer Science & Engineering at <strong>IIT Gandhinagar</strong> (CPI: 9.01/10). Passionate about compilers, ML infrastructure, and low-level systems, I have been actively learning through upstream open-source contributions to <strong>OpenXLA/XLA</strong>, <strong>Triton</strong>, <strong>scikit-learn</strong>, and <strong>CGAL</strong>, alongside compiler optimization research and internship experience.
   </em>
   <br><br>
 
